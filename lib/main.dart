@@ -19,8 +19,8 @@ class _QuotesAppState extends State<QuotesApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      theme: ThemeData.dark(useMaterial3: true),
-      initialRoute: 'home',
+      theme: ThemeData.light(useMaterial3: true),
+      // initialRoute: 'home',
       routes: {
         '/': (context) => SplashScreen(),
         'home': (context) => HomeScreen(),
