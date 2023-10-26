@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 <p>
   <img src = "https://github.com/Aayush014/quotes_app/assets/133498952/3a83362a-02f5-4970-80cc-a529ba797d88" width=22% height=35%>
   <img src = "https://github.com/Aayush014/quotes_app/assets/133498952/30b57273-a5bf-44b2-9e1a-0da21faa3e5b" width=22% height=35%>
+  <img src = "https://github.com/Aayush014/quotes_app/assets/133498952/3c17d255-faf2-4bca-bb84-14b878847dde" width=22% height=35%>
 </p>
-
